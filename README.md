@@ -12,5 +12,9 @@
  - We can search for something in each media type
  - Each media type has an icon on TabBar. 
  - iTunes API used for data.
-  
-<img width="350" alt="Ekran Resmi 2022-10-11 00 12 29" src="https://user-images.githubusercontent.com/102812975/194953657-7ebf2af8-be30-4a28-9891-b0a0a96f7caa.png">
+
+-- A movie to look for
+<img width="350" alt="a movie to look for" src="https://user-images.githubusercontent.com/102812975/194956039-417f7155-3056-4e5d-8873-1c3b5b826251.png">
+
+-- Searching for "beast"
+<img width="350" alt="searching for something" src="https://user-images.githubusercontent.com/102812975/194956035-bd888ff8-094f-4bc5-9ed2-d5087e101a99.png">
